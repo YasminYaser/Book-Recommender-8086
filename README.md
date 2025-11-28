@@ -30,8 +30,10 @@ FCIS – Mansoura University • November 2025
 3. Run → Assemble (F9)  
 4. Run → Go (F5)
 
-Or using DOSBox:
-```bash
-tasm Fpro.asm
-tlink Fpro.obj
-Fpro
+
+### Demo (Running in GUI Turbo Assembler)
+
+**Main Menu**                            |  **Book Recommendation**
+:---------------------------------------:|:---------------------------------------:
+![Main Menu](screenshot-menu.png)        |  ![Recommendation Result](screenshot-result.png)
+
